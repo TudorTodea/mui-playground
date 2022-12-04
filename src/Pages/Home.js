@@ -1,9 +1,7 @@
 import React from 'react'
-import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
-import SingleCard from '../SingleCard';
-import Navbar from '../Navbar';
+import SingleCard from '../components/SingleCard';
 import cities from "../data.json"
 import { Typography } from '@mui/material';
 const Home = () => {
